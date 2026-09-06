@@ -6,10 +6,10 @@ namespace LuaToolsGui;
 /// </summary>
 public static class AppConfig
 {
-    public const string SupabaseUrl = "https://db.lua.tools";
+    public const string SupabaseUrl = "https://olasgbzelbgxqcpydbwx.supabase.co";
 
     public const string SupabaseAnonKey =
-        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzYwMzkzNzYsImV4cCI6MTg5MzQ1NjAwMCwicm9sZSI6ImFub24iLCJpc3MiOiJzdXBhYmFzZSJ9.f_-K38u3odjltP-g_67FVmG32Vg-_-k-lNBvIaVUVBM";
+        "sb_publishable_0MZ6dZ1OK6x3CZZDuaZzZg_qhHa1HDL";
 
     public const string ApiBaseUrl = "https://lua.tools";
 
@@ -99,10 +99,7 @@ public static class AppConfig
     /// </summary>
     public static readonly string[] GithubReleasesRepos =
     [
-        "https://github.com/madoiscool/LuaTools",   // primary
-        "https://github.com/mendy-tools/LuaTools",  // backup. Create this repo + re-upload the Velopack
-                                                    // assets ONLY if the primary goes down (404s harmlessly
-                                                    // until then; UpdateService just falls through past it).
+        "https://github.com/Khaild505Qht/MLK31Tools",   // primary
     ];
 
     /// <summary>The primary releases repo (first in <see cref="GithubReleasesRepos"/>).</summary>
