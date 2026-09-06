@@ -27,7 +27,7 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
-        <ui:TitleBar Grid.Row="0" Title="LuaTools">
+        <ui:TitleBar Grid.Row="0" Title="MLK3Tools">
             <ui:TitleBar.Icon>
                 <ui:ImageIcon Source="pack://application:,,,/icon.ico" />
             </ui:TitleBar.Icon>
