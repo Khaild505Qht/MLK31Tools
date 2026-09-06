@@ -132,7 +132,7 @@
   <data name="Lang_Changed_Restart" xml:space="preserve"><value>أعد التشغيل الآن</value></data>
 
   <!-- ── Home ── -->
-  <data name="Home_Welcome" xml:space="preserve"><value>مرحبًا بك في LuaTools</value></data>
+  <data name="Home_Welcome" xml:space="preserve"><value>مرحبًا بك في MLK3Tools</value></data>
   <data name="Home_LuasOnBoard" xml:space="preserve"><value>ملفات Lua المتوفرة</value></data>
   <data name="Home_LastAdded" xml:space="preserve"><value>آخر ما أُضيف</value></data>
   <data name="Home_PluginStatus" xml:space="preserve"><value>حالة الإضافة</value></data>
@@ -177,7 +177,7 @@
   <data name="Mode_CloudRedirect_Toast_Enabled" xml:space="preserve"><value>تم التفعيل — أعد تشغيل Steam للتطبيق.</value></data>
   <data name="Mode_CloudRedirect_Toast_Disabled" xml:space="preserve"><value>تم التعطيل — أعد تشغيل Steam للتطبيق.</value></data>
   <data name="Mode_CloudRedirect_Toast_Updated" xml:space="preserve"><value>تم التحديث — أعد تشغيل Steam للتطبيق.</value></data>
-  <data name="Onboarding_Title" xml:space="preserve"><value>مرحبًا بك في تطبيق LuaTools!</value></data>
+  <data name="Onboarding_Title" xml:space="preserve"><value>مرحبًا بك في تطبيق MLK3Tools!</value></data>
   <data name="Onboarding_SignIn_Blurb" xml:space="preserve"><value>سجّل الدخول لفتح إضافة الألعاب والإصلاحات.</value></data>
   <data name="Onboarding_SignedIn" xml:space="preserve"><value>تم تسجيل الدخول ✓</value></data>
   <data name="Onboarding_Recommended_Title" xml:space="preserve"><value>تطبيق الإعدادات الموصى بها</value></data>
